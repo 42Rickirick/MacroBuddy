@@ -1,2 +1,11 @@
 # MacroBuddy
-The Goal of this Project is to make a Macroboard that no one sells (except for ludicrous prices). But in contrast to other macroboards it is supposed to work flawlessly with a self designed Desktop App that works on Linux, Windows and Macos and incorperates a kind of customization that commercial providers won't provide.
+MacroBuddy is supposed to be the Gadget you never realised you needed. In Contrast to other Macropads, MacroBuddy is supposed to be a well engineered not overprized alternative to big names like the Stream Deck. It is also supposed to easily incorperate the kind of customization that you need, without overcomplicating the setup Progress.
+
+The Project consists of a the Hardware aspect, the MacroBuddy itself, and the Desktop Applications which converts the inputs from the MacroBuddy to the, in the application, assigned actions.
+
+The MacroBuddy Desktop Application is going to be compatible with basically any Linux distribution that utilizes PipeWire.
+A Windows Application is planned in the future (low prioritization).
+
+This Project is my first one of this kind. The Desktop Application utilizes Rust and Gtk. 
+
+I got inspired by the remote-conrtrol-macro Project by jonananas999. During the creation of the PCB, he helped me out as i've never designed a PCB prior to this.
