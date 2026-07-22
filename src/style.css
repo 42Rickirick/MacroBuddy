@@ -1,0 +1,38 @@
+/* Square macro buttons */
+.square-button {
+    background-color: #2e2e38;
+    color: #ffffff;
+    border: 1px solid #45455a;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 14px;
+    min-width: 60px;
+    min-height: 60px;
+    transition: background-color 150ms ease;
+}
+
+.square-button:hover {
+    background-color: #3a3a48;
+}
+
+.square-button:active {
+    background-color: #1e1e26;
+}
+
+/* Round dial buttons */
+.dial-button {
+    background-color: #7171712b;
+    color: #000000;
+    border-radius: 50%;
+    font-weight: bold;
+    
+    transition: background-color 150ms ease;
+}
+
+.dial-button:hover {
+    background-color: #7171715d;
+}
+
+.dial-button:active {
+    background-color: #717171a8;
+}
