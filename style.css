@@ -1,0 +1,82 @@
+/* Square macro buttons */
+.square-button {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    min-width: 50px;
+    min-height: 50px;
+}
+
+.square-button:hover {
+    background-color: #3a3a48;
+}
+
+.square-button:active {
+    background-color: #1e1e26;
+}
+
+/* Round dial buttons */
+.dial-button {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    border-radius: 50%;
+    font-weight: bold;
+    border: 1px solid #ffffff;
+    min-width: 50px;
+    min-height: 50px;
+}
+
+.dial-button:hover {
+    background-color: #7171715d;
+}
+
+.dial-button:active {
+    background-color: #717171a8;
+}
+
+.window {
+    background-color: #121212;
+}
+
+.titlebar {
+    background-color: #1d1d1d;
+    color: #ffffff;
+}
+
+.dropdown {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    border-radius: 1px;
+    font-weight: bold;
+    font-size: 14px;   
+}
+
+
+
+.dropdown button.combo {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    border: 0px solid;
+}
+
+.dropdown popover contents {
+    background-color: #1d1d1d;
+    border: none;
+    box-shadow: none;
+    padding: 4px;
+    color: #ffffff;
+}
+
+.text {
+    color: #ffffff;
+}
+
+.buttonback {
+   background-color: #1d1d1d;
+    color: #ffffff;
+    border-radius: 3px;
+    font-weight: bold;   
+}
